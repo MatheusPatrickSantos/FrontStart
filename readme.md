@@ -2,6 +2,8 @@
 
 Esse projeto foi desenvolvido durante o curso frontstart, para aprendermos e praticarmos sobre html e css.
 
+[Clique Aqui](http://bigmath96.github.io/FrontStart//) para ver o projeto ao vivo!
+
 ### Aprendizado
 
 - estrutura de um formulário
